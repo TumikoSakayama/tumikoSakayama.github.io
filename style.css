@@ -1,0 +1,29 @@
+*{
+    background: #377eae repeat fixed;
+    color: #73add3;
+}
+header{
+    font: 24px bold;
+    text-align: center;
+    background-color:;
+}
+ul.header{
+    width: 900px;
+    padding: 10px;
+    margin: 0px auto 0px auto;
+    border-top: 2px solid black;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+li.uno{
+    display: inline;
+    margin: 5px;
+}
+a{
+    color: #73add3;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+a:hover{
+    color: grey;
+}
